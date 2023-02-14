@@ -1,2 +1,1 @@
-# .github
-README.md from Sainte-Quatuoriade
+# README.md from Sainte-Quatuoriade
